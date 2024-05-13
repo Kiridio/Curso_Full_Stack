@@ -1,0 +1,8 @@
+
+header.Navbar {background-color: gray; opacity: 70%; margin: -8px; padding: 10px; letter-spacing: 1px;}
+
+.navbar-icon {}
+
+.navbar-texto{color: pink; border-bottom: 15px; margin-left: 15px; text-decoration-line: none; font-family: 'Source Sans Pro', sans-serif; font-size: 60px; }
+
+.navbar-toggler {color: pink; margin-left: 10px; font-size: 30px; font-family: Arial, Helvetica, sans-serif; text-decoration-line: none;}
