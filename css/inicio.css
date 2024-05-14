@@ -1,8 +1,10 @@
 
-header.Navbar {background-color: gray; opacity: 70%; margin: -8px; padding: 10px; letter-spacing: 1px;}
+header.Navbar { opacity: 70%; margin: -8px; padding: 10px; letter-spacing: 1px;}
 
 .navbar-icon {}
 
 .navbar-texto{color: pink; border-bottom: 15px; margin-left: 15px; text-decoration-line: none; font-family: "Segoe Script" ; font-size: 60px; }
 
 .navbar-toggler {color: pink; margin-left: 10px; font-size: 30px; font-family: "Segoe Script"; text-decoration-line: none;}
+
+.Center-image {width: 50%;height: 200px; margin-left: auto; margin-right: auto; display: block;}
